@@ -35,6 +35,8 @@ Place your YOLO models (e.g., `yolov8x-oiv7.pt`) in the root project directory. 
 ```sh
 python Yolo8_crop_multy_gui.py
 ```
+Note: This version was tested and works on Python 3.10.6.
+
 
 ## Using the GUI
 
