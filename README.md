@@ -54,6 +54,17 @@ Note: This version was tested and works on Python 3.10.6.
 - **Clear Export Folder:** Click to clear all files in the export folder.
 - **Refresh Models:** Click to refresh the list of available models.
 
+## Models Included in the Portable GUI
+- yolov8x-oiv7.pt: A pre-trained YOLOv8 model.
+- yolov10x.pt: A pre-trained YOLOv10 model.
+- yolov8s-worldv2-lvis.pt: A specialized YOLOv8 model trained on the lvis dataset.
+- yolov8x-oiv7 8init 4 batch.engine: A TensorRT engine file for YOLOv8x with 8-init 4 batch size.
+- yolov8x-oiv7 16fp 8 batch.engine: A TensorRT engine file for YOLOv8x with 16fp 8 batch size.
+
+## Download
+You can download the portable version of YoloCropGUI from the following link:
+- [Download Portable GUI](https://mega.nz/file/S41lwICB#icN3mJmrJ-jHF2nTKAFhNelZE73XspBRwzMHny4b-lU) - Beta
+
 ## Acknowledgements
 
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics/tree/v8.2.0)
