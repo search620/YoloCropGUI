@@ -17,7 +17,7 @@ YoloCropGUI is a user-friendly graphical interface built with PyQt5 that leverag
 **Dynamic Parameters:** Automatically adjust font scale and line thickness based on image size.
 
 **Clone the Repository:**
-git clone https://github.com/yourusername/YoloCropGUI.git
+git clone https://github.com/search620/YoloCropGUI.git
 cd YoloCropGUI
 
 **Install Dependencies:**
