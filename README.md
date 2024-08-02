@@ -65,7 +65,7 @@ Note: This version was tested and works on Python 3.10.6.
 You can download the portable version of YoloCropGUI from the following link:
 - [Download Portable GUI](https://mega.nz/file/S41lwICB#icN3mJmrJ-jHF2nTKAFhNelZE73XspBRwzMHny4b-lU) - Beta
 
-- You probably need this two to be install on your windows pc (From my test it worked. I don't know if you need all the packages shown in the picture. But I installed it as the default of microsoft build tools and it works for me)
+- You probably need these two to be installed on your windows pc (From my test it worked. I don't know if you need all the packages shown in the picture. But I installed it as the default of [Microsoft build tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) and it works for me)
 
 ![image](https://github.com/user-attachments/assets/7fce6c50-751c-4ce7-8e1b-9100e0436306)
 
